@@ -2,12 +2,148 @@ owner: SDS1337 # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Flixari
+    url: https://flixari.xyz
+    icon: https://flixari.xyz/plugins/images/organizr/organizr_logo.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+  - name: Plex
+    url: https://plex.flixari.xyz/web/index.html
+    icon: https://flixari.xyz/plugins/images/tabs/plex.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+  - name: Nextcloud
+    url: https://nextcloud.flixari.xyz/login
+    icon: https://flixari.xyz/plugins/images/tabs/nextcloud.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+  - name: XBackBone
+    url: https://sharex.flixari.xyz/login
+    icon: https://flixari.xyz/plugins/images/tabs/xbackbone.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+  - name: Petio
+    url: https://flixari.xyz/petio/
+    icon: https://flixari.xyz/plugins/images/tabs/petio.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
+  - name: Jackett
+    url: https://flixari.xyz/jackett/UI/Login/
+    icon: https://flixari.xyz/plugins/images/tabs/jackett.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
+  - name: AdGuard
+    url: https://adguard.flixari.xyz/login.html
+    icon: https://flixari.xyz/plugins/images/tabs/AdGuardHome.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+  - name: Radarr
+    url: https://flixari.xyz/radarr/activity/queue/
+    icon: https://flixari.xyz/plugins/images/tabs/radarrNew.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
+  - name: Sonarr
+    url: https://flixari.xyz/sonarr/activity/queue/
+    icon: https://flixari.xyz/plugins/images/tabs/sonarr.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
+  - name: Bazarr
+    url: https://flixari.xyz/bazarr/system/status
+    icon: https://flixari.xyz/plugins/images/tabs/bazarr.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
+  - name: Tautulli
+    url: https://flixari.xyz/tautulli/status/
+    icon: https://flixari.xyz/plugins/images/tabs/tautulli.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
+  - name: Flood
+    url: https://flixari.xyz/flood/
+    icon: https://flixari.xyz/plugins/images/tabs/flood.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
+  - name: qBittorrent
+    url: https://flixari.xyz/qbittorrent/
+    icon: https://flixari.xyz/plugins/images/tabs/qBittorrent.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
+  - name: Filebrowser
+    url: https://files.flixari.xyz
+    icon: https://flixari.xyz/plugins/images/tabs/filebrowser.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
+  - name: Netdata
+    url: https://flixari.xyz/netdata/
+    icon: https://flixari.xyz/plugins/images/tabs/netdata.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
+  - name: Prowlarr
+    url: https://flixari.xyz/prowlarr/
+    icon: https://flixari.xyz/plugins/images/userTabs/prowlarr_128.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
+  - name: Dozzle
+    url: https://flixari.xyz/dozzle/
+    icon: https://flixari.xyz/plugins/images/tabs/dozzle.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
+  - name: Code-Server
+    url: https://code-server.flixari.xyz/login
+    icon: https://flixari.xyz/plugins/images/userTabs/vs_og--violet%20(2).png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
+  - name: Docs
+    url: https://docs.flixari.xyz/
+    icon: https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/wordpress-icon.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
 
 assignees: # Users to assign downtime issues (optional)
   - SDS1337
