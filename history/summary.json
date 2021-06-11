@@ -274,19 +274,19 @@
     "url": "https://flixari.xyz/prowlarr/",
     "icon": "https://flixari.xyz/plugins/images/userTabs/prowlarr_128.png",
     "slug": "prowlarr",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 396,
-    "timeDay": 396,
-    "timeWeek": 396,
-    "timeMonth": 396,
-    "timeYear": 396,
+    "status": "up",
+    "uptime": "96.86%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "96.86%",
+    "time": 585,
+    "timeDay": 585,
+    "timeWeek": 585,
+    "timeMonth": 585,
+    "timeYear": 585,
     "dailyMinutesDown": {
-      "2021-06-11": 0
+      "2021-06-11": 17
     }
   },
   {
