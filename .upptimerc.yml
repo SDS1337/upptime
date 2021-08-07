@@ -26,9 +26,17 @@ sites:
 #    expectedStatusCodes:
 #      - 200
 #    maxRedirects: 0
-  - name: Petio
+  - name: Petio (Requests)
     url: https://flixari.xyz/petio/
     icon: https://flixari.xyz/plugins/images/tabs/petio.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
+    headers:
+      - "token: $ORG_API_KEY"
+  - name: Docs
+    url: https://docs.flixari.xyz/
+    icon: https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/wordpress-icon.png
     expectedStatusCodes:
       - 200
     maxRedirects: 0
@@ -72,7 +80,7 @@ sites:
 #    maxRedirects: 0
 #    headers:
 #      - "token: $ORG_API_KEY"
-  - name: Tautulli
+  - name: Tautulli (Stats)
     url: https://flixari.xyz/tautulli/status/
     icon: https://flixari.xyz/plugins/images/tabs/tautulli.png
     expectedStatusCodes:
@@ -136,14 +144,6 @@ sites:
 #    maxRedirects: 0
 #    headers:
 #      - "token: $ORG_API_KEY"
-  - name: Docs
-    url: https://docs.flixari.xyz/
-    icon: https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/wordpress-icon.png
-    expectedStatusCodes:
-      - 200
-    maxRedirects: 0
-    headers:
-      - "token: $ORG_API_KEY"
 
 assignees: # Users to assign downtime issues (optional)
   - SDS1337
