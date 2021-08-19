@@ -34,14 +34,14 @@ sites:
     maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
-  - name: 'Docs'
-    url: https://docs.flixari.xyz/
-    icon: https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/wordpress-icon.png
-    expectedStatusCodes:
-      - 200
-    maxRedirects: 0
-    headers:
-      - "token: $ORG_API_KEY"
+#  - name: 'Docs'
+#    url: https://docs.flixari.xyz/
+#    icon: https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/wordpress-icon.png
+#    expectedStatusCodes:
+#      - 200
+#    maxRedirects: 0
+#    headers:
+#      - "token: $ORG_API_KEY"
 #  - name: Jackett
 #    url: https://flixari.xyz/jackett/UI/Login/
 #    icon: https://flixari.xyz/plugins/images/tabs/jackett.png
