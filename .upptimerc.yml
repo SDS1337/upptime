@@ -2,13 +2,13 @@ owner: SDS1337 # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Flixari
+  - name: 'Flixari'
     url: https://flixari.xyz
     icon: https://flixari.xyz/plugins/images/organizr/organizr_logo.png
     expectedStatusCodes:
       - 200
     maxRedirects: 0
-  - name: Plex
+  - name: 'Plex'
     url: https://plex.flixari.xyz/web/index.html
     icon: https://flixari.xyz/plugins/images/tabs/plex.png
     expectedStatusCodes:
@@ -26,7 +26,7 @@ sites:
 #    expectedStatusCodes:
 #      - 200
 #    maxRedirects: 0
-  - name: Petio (Requests)
+  - name: 'Petio'
     url: https://flixari.xyz/petio/
     icon: https://flixari.xyz/plugins/images/tabs/petio.png
     expectedStatusCodes:
@@ -34,7 +34,7 @@ sites:
     maxRedirects: 0
     headers:
       - "token: $ORG_API_KEY"
-  - name: Docs
+  - name: 'Docs'
     url: https://docs.flixari.xyz/
     icon: https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/wordpress-icon.png
     expectedStatusCodes:
@@ -80,7 +80,7 @@ sites:
 #    maxRedirects: 0
 #    headers:
 #      - "token: $ORG_API_KEY"
-  - name: Tautulli (Stats)
+  - name: 'Tautulli'
     url: https://flixari.xyz/tautulli/status/
     icon: https://flixari.xyz/plugins/images/tabs/tautulli.png
     expectedStatusCodes:
