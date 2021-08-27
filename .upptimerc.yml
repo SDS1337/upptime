@@ -4,13 +4,13 @@ repo: upptime # The name of this repository
 sites:
   - name: 'Flixari'
     url: https://flixari.xyz
-    icon: https://flixari.xyz/plugins/images/organizr/organizr_logo.png
+    icon: https://assets.flixari.xyz/organizr/logo.png
     expectedStatusCodes:
       - 200
     maxRedirects: 0
   - name: 'Plex'
     url: https://plex.flixari.xyz/web/index.html
-    icon: https://flixari.xyz/plugins/images/tabs/plex.png
+    icon: https://assets.flixari.xyz/apps/plex.png
     expectedStatusCodes:
       - 200
     maxRedirects: 0
@@ -28,7 +28,7 @@ sites:
 #    maxRedirects: 0
   - name: 'Petio'
     url: https://flixari.xyz/petio/
-    icon: https://flixari.xyz/plugins/images/tabs/petio.png
+    icon: https://assets.flixari.xyz/apps/petio.png
     expectedStatusCodes:
       - 200
     maxRedirects: 0
@@ -82,7 +82,7 @@ sites:
 #      - "token: $ORG_API_KEY"
   - name: 'Tautulli'
     url: https://flixari.xyz/tautulli/status/
-    icon: https://flixari.xyz/plugins/images/tabs/tautulli.png
+    icon: https://assets.flixari.xyz/apps/tautulli.png
     expectedStatusCodes:
       - 200
     maxRedirects: 0
