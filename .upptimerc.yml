@@ -149,7 +149,7 @@ assignees: # Users to assign downtime issues (optional)
   - SDS1337
 
 status-website:
-  cname: status.flixari.xyz
+  cname: status.flixari.co
   publish: true
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Flixari - Upptime
