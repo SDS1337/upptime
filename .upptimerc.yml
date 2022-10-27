@@ -15,25 +15,25 @@ sites:
       - 200
     maxRedirects: 0
 #  - name: Nextcloud
-#    url: https://nextcloud.flixari.co/login
-#    icon: https://flixari.co/plugins/images/tabs/nextcloud.png
+#    url: https://cloud.flixari.co/login
+#    icon: https://assets.flixari.co/apps/nextcloud.png
 #    expectedStatusCodes:
 #      - 200
 #    maxRedirects: 0
 #  - name: XBackBone
-#    url: https://sharex.flixari.co/login
-#    icon: https://flixari.co/plugins/images/tabs/xbackbone.png
+#    url: https://i.flixari.co/login
+#    icon: https://assets.flixari.co/apps/xbackbone.png
 #    expectedStatusCodes:
 #      - 200
 #    maxRedirects: 0
-  - name: 'Petio'
-    url: https://flixari.co/petio/
-    icon: https://assets.flixari.co/apps/petio.png
-    expectedStatusCodes:
-      - 200
-    maxRedirects: 0
-    headers:
-      - "token: $ORG_API_KEY"
+#  - name: 'Petio'
+#    url: https://flixari.co/petio/
+#    icon: https://assets.flixari.co/apps/petio.png
+#    expectedStatusCodes:
+#      - 200
+#    maxRedirects: 0
+#    headers:
+#      - "token: $ORG_API_KEY"
 #  - name: 'Docs'
 #    url: https://docs.flixari.co/
 #    icon: https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/wordpress-icon.png
@@ -80,14 +80,14 @@ sites:
 #    maxRedirects: 0
 #    headers:
 #      - "token: $ORG_API_KEY"
-  - name: 'Tautulli'
-    url: https://flixari.co/tautulli/status/
-    icon: https://assets.flixari.co/apps/tautulli.png
-    expectedStatusCodes:
-      - 200
-    maxRedirects: 0
-    headers:
-      - "token: $ORG_API_KEY"
+#  - name: 'Tautulli'
+#    url: https://flixari.co/tautulli/status/
+#    icon: https://assets.flixari.co/apps/tautulli.png
+#    expectedStatusCodes:
+#      - 200
+#    maxRedirects: 0
+#    headers:
+#      - "token: $ORG_API_KEY"
 #  - name: Flood
 #    url: https://flixari.co/flood/
 #    icon: https://flixari.co/plugins/images/tabs/flood.png
