@@ -36,7 +36,7 @@
     "url": "https://plex.flixari.co/web/index.html",
     "icon": "https://assets.flixari.co/apps/plex.png",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.44%",
