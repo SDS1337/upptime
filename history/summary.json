@@ -6,14 +6,14 @@
     "slug": "flixari",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "98.22%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.72%",
     "time": 569,
-    "timeDay": 430,
-    "timeWeek": 422,
-    "timeMonth": 410,
+    "timeDay": 392,
+    "timeWeek": 421,
+    "timeMonth": 411,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2023-05-16": 26,
@@ -28,8 +28,7 @@
       "2022-06-21": 40,
       "2022-06-15": 18,
       "2022-06-02": 28,
-      "2022-05-30": 43,
-      "2022-05-18": 142
+      "2022-05-30": 43
     }
   },
   {
@@ -39,14 +38,14 @@
     "slug": "plex",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "98.22%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.69%",
     "time": 352,
-    "timeDay": 228,
-    "timeWeek": 230,
-    "timeMonth": 271,
+    "timeDay": 253,
+    "timeWeek": 228,
+    "timeMonth": 272,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2023-05-16": 26,
@@ -66,8 +65,7 @@
       "2022-06-21": 39,
       "2022-06-15": 18,
       "2022-06-02": 27,
-      "2022-05-30": 43,
-      "2022-05-18": 126
+      "2022-05-30": 43
     }
   }
 ]
