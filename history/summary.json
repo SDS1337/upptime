@@ -11,9 +11,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.77%",
     "time": 545,
-    "timeDay": 386,
-    "timeWeek": 630,
-    "timeMonth": 478,
+    "timeDay": 355,
+    "timeWeek": 642,
+    "timeMonth": 476,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2023-08-28": 25,
@@ -36,15 +36,15 @@
     "icon": "https://assets.flixari.co/apps/plex.png",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.74%",
     "time": 346,
-    "timeDay": 180,
-    "timeWeek": 223,
-    "timeMonth": 243,
+    "timeDay": 191,
+    "timeWeek": 230,
+    "timeMonth": 242,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2023-08-28": 24,
@@ -63,8 +63,7 @@
       "2022-12-30": 20,
       "2022-11-24": 77,
       "2022-10-26": 80,
-      "2022-10-25": 195,
-      "2022-09-04": 47
+      "2022-10-25": 195
     }
   }
 ]
