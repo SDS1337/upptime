@@ -1,7 +1,7 @@
 url: https://plex.flixari.co/web/index.html
-status: up
-code: 200
-responseTime: 263
-lastUpdated: 2023-10-15T23:06:57.981Z
+status: down
+code: 502
+responseTime: 239
+lastUpdated: 2023-10-16T10:21:03.575Z
 startTime: 2021-06-11T13:53:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
