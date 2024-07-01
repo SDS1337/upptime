@@ -5,15 +5,15 @@
     "icon": "https://assets.flixari.co/organizr/logo.png",
     "slug": "flixari",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.13%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.76%",
     "time": 488,
-    "timeDay": 499,
-    "timeWeek": 460,
-    "timeMonth": 611,
+    "timeDay": 508,
+    "timeWeek": 481,
+    "timeMonth": 607,
     "timeYear": 442,
     "dailyMinutesDown": {
       "2024-06-22": 34,
@@ -37,8 +37,7 @@
       "2023-08-28": 25,
       "2023-08-24": 37,
       "2023-08-07": 26,
-      "2023-07-26": 29,
-      "2023-07-02": 18
+      "2023-07-26": 29
     }
   },
   {
@@ -47,15 +46,15 @@
     "icon": "https://assets.flixari.co/apps/plex.png",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "97.68%",
+    "uptime": "99.48%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
-    "uptimeMonth": "98.96%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "99.74%",
-    "time": 270,
-    "timeDay": 215,
-    "timeWeek": 237,
-    "timeMonth": 503,
+    "time": 269,
+    "timeDay": 209,
+    "timeWeek": 246,
+    "timeMonth": 367,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2024-06-29": 33,
@@ -87,8 +86,7 @@
       "2023-08-28": 24,
       "2023-08-24": 37,
       "2023-08-07": 25,
-      "2023-07-30": 31,
-      "2023-07-02": 18
+      "2023-07-30": 31
     }
   }
 ]
