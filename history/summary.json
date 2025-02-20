@@ -4,7 +4,7 @@
     "url": "https://flixari.co",
     "icon": "https://assets.flixari.co/organizr/logo.png",
     "slug": "flixari",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.09%",
@@ -16,6 +16,7 @@
     "timeMonth": 457,
     "timeYear": 624,
     "dailyMinutesDown": {
+      "2025-02-20": 0,
       "2025-02-14": 182,
       "2025-02-13": 10,
       "2025-01-24": 24,
