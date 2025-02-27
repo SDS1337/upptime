@@ -8,142 +8,24 @@ sites:
     expectedStatusCodes:
       - 200
     maxRedirects: 0
+  - name: Hermes
+    url: https://hermes.flixari.co
+    icon: https://assets.flixari.co/mailcow.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
   - name: 'Plex'
     url: https://plex.flixari.co/web/index.html
     icon: https://assets.flixari.co/apps/plex.png
     expectedStatusCodes:
       - 200
     maxRedirects: 0
-#  - name: Nextcloud
-#    url: https://cloud.flixari.co/login
-#    icon: https://assets.flixari.co/apps/nextcloud.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#  - name: XBackBone
-#    url: https://i.flixari.co/login
-#    icon: https://assets.flixari.co/apps/xbackbone.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#  - name: 'Petio'
-#    url: https://flixari.co/petio/
-#    icon: https://assets.flixari.co/apps/petio.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#    headers:
-#      - "token: $ORG_API_KEY"
-#  - name: 'Docs'
-#    url: https://docs.flixari.co/
-#    icon: https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/wordpress-icon.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#    headers:
-#      - "token: $ORG_API_KEY"
-#  - name: Jackett
-#    url: https://flixari.co/jackett/UI/Login/
-#    icon: https://flixari.co/plugins/images/tabs/jackett.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#    headers:
-#      - "token: $ORG_API_KEY"
-#  - name: AdGuard
-#    url: https://adguard.flixari.co/login.html
-#    icon: https://flixari.co/plugins/images/tabs/AdGuardHome.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#  - name: Radarr
-#    url: https://flixari.co/radarr/activity/queue/
-#    icon: https://flixari.co/plugins/images/tabs/radarrNew.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#    headers:
-#      - "token: $ORG_API_KEY"
-#  - name: Sonarr
-#    url: https://flixari.co/sonarr/activity/queue/
-#    icon: https://flixari.co/plugins/images/tabs/sonarr.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#    headers:
-#      - "token: $ORG_API_KEY"
-#  - name: Bazarr
-#    url: https://flixari.co/bazarr/system/status
-#    icon: https://flixari.co/plugins/images/tabs/bazarr.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#    headers:
-#      - "token: $ORG_API_KEY"
-#  - name: 'Tautulli'
-#    url: https://flixari.co/tautulli/status/
-#    icon: https://assets.flixari.co/apps/tautulli.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#    headers:
-#      - "token: $ORG_API_KEY"
-#  - name: Flood
-#    url: https://flixari.co/flood/
-#    icon: https://flixari.co/plugins/images/tabs/flood.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#    headers:
-#      - "token: $ORG_API_KEY"
-#  - name: qBittorrent
-#    url: https://flixari.co/qbittorrent/
-#    icon: https://flixari.co/plugins/images/tabs/qBittorrent.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#    headers:
-#      - "token: $ORG_API_KEY"
-#  - name: Filebrowser
-#    url: https://files.flixari.co
-#    icon: https://flixari.co/plugins/images/tabs/filebrowser.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#    headers:
-#      - "token: $ORG_API_KEY"
-#  - name: Netdata
-#    url: https://flixari.co/netdata/
-#    icon: https://flixari.co/plugins/images/tabs/netdata.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#    headers:
-#      - "token: $ORG_API_KEY"
-#  - name: Prowlarr
-#    url: https://flixari.co/prowlarr/
-#    icon: https://flixari.co/plugins/images/userTabs/prowlarr_128.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#    headers:
-#      - "token: $ORG_API_KEY"
-#  - name: Dozzle
-#    url: https://flixari.co/dozzle/
-#    icon: https://flixari.co/plugins/images/tabs/dozzle.png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#    headers:
-#      - "token: $ORG_API_KEY"
-#  - name: Code-Server
-#    url: https://code-server.flixari.co/login
-#    icon: https://flixari.co/plugins/images/userTabs/vs_og--violet%20(2).png
-#    expectedStatusCodes:
-#      - 200
-#    maxRedirects: 0
-#    headers:
-#      - "token: $ORG_API_KEY"
+  - name: Nextcloud
+    url: https://cloud.flixari.co/login
+    icon: https://assets.flixari.co/apps/nextcloud.png
+    expectedStatusCodes:
+      - 200
+    maxRedirects: 0
 
 assignees: # Users to assign downtime issues (optional)
   - SDS1337
