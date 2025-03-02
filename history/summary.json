@@ -86,7 +86,7 @@
     "url": "https://plex.flixari.co/web/index.html",
     "icon": "https://assets.flixari.co/apps/plex.png",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.55%",
@@ -169,18 +169,18 @@
     "icon": "https://assets.flixari.co/apps/nextcloud.png",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "97.56%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.93%",
+    "uptime": "96.73%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "98.09%",
     "time": 775,
     "timeDay": 264,
     "timeWeek": 337,
     "timeMonth": 337,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2025-03-02": 0,
+      "2025-03-02": 38,
       "2025-02-28": 46
     }
   }
