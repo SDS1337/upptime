@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "98.37%",
     "time": 586,
-    "timeDay": 481,
-    "timeWeek": 669,
-    "timeMonth": 629,
+    "timeDay": 542,
+    "timeWeek": 482,
+    "timeMonth": 633,
     "timeYear": 662,
     "dailyMinutesDown": {
       "2025-05-22": 219,
@@ -66,8 +66,7 @@
       "2024-06-08": 47,
       "2024-06-07": 152,
       "2024-06-03": 71,
-      "2024-06-02": 58,
-      "2024-05-30": 19
+      "2024-06-02": 58
     }
   },
   {
@@ -81,11 +80,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 621,
-    "timeDay": 560,
-    "timeWeek": 618,
-    "timeMonth": 629,
-    "timeYear": 621,
+    "time": 620,
+    "timeDay": 596,
+    "timeWeek": 582,
+    "timeMonth": 622,
+    "timeYear": 620,
     "dailyMinutesDown": {}
   },
   {
@@ -96,13 +95,13 @@
     "status": "up",
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.40%",
+    "uptimeWeek": "94.57%",
     "uptimeMonth": "97.70%",
     "uptimeYear": "98.04%",
     "time": 338,
-    "timeDay": 284,
-    "timeWeek": 268,
-    "timeMonth": 409,
+    "timeDay": 387,
+    "timeWeek": 298,
+    "timeMonth": 413,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2025-05-24": 548,
@@ -175,8 +174,7 @@
       "2024-06-08": 47,
       "2024-06-07": 151,
       "2024-06-03": 70,
-      "2024-06-02": 58,
-      "2024-05-30": 19
+      "2024-06-02": 58
     }
   },
   {
@@ -185,15 +183,15 @@
     "icon": "https://assets.flixari.co/apps/nextcloud.png",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "98.16%",
+    "uptime": "98.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.15%",
-    "uptimeYear": "98.20%",
+    "uptimeYear": "98.22%",
     "time": 444,
-    "timeDay": 363,
-    "timeWeek": 330,
-    "timeMonth": 364,
+    "timeDay": 404,
+    "timeWeek": 349,
+    "timeMonth": 369,
     "timeYear": 354,
     "dailyMinutesDown": {
       "2025-05-22": 218,
