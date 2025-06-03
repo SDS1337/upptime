@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "98.37%",
+    "uptimeYear": "98.38%",
     "time": 586,
-    "timeDay": 490,
-    "timeWeek": 459,
-    "timeMonth": 627,
-    "timeYear": 661,
+    "timeDay": 451,
+    "timeWeek": 455,
+    "timeMonth": 625,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2025-05-22": 219,
       "2025-05-16": 44,
@@ -64,8 +64,7 @@
       "2024-07-10": 32,
       "2024-06-22": 34,
       "2024-06-08": 47,
-      "2024-06-07": 152,
-      "2024-06-03": 71
+      "2024-06-07": 152
     }
   },
   {
@@ -80,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 621,
-    "timeDay": 535,
-    "timeWeek": 636,
-    "timeMonth": 629,
+    "timeDay": 572,
+    "timeWeek": 647,
+    "timeMonth": 620,
     "timeYear": 621,
     "dailyMinutesDown": {}
   },
@@ -96,12 +95,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.70%",
-    "uptimeYear": "98.04%",
+    "uptimeYear": "98.05%",
     "time": 339,
-    "timeDay": 305,
-    "timeWeek": 287,
-    "timeMonth": 404,
-    "timeYear": 350,
+    "timeDay": 296,
+    "timeWeek": 283,
+    "timeMonth": 406,
+    "timeYear": 351,
     "dailyMinutesDown": {
       "2025-05-24": 548,
       "2025-05-22": 219,
@@ -171,8 +170,7 @@
       "2024-06-22": 46,
       "2024-06-10": 30,
       "2024-06-08": 47,
-      "2024-06-07": 151,
-      "2024-06-03": 70
+      "2024-06-07": 151
     }
   },
   {
@@ -181,15 +179,15 @@
     "icon": "https://assets.flixari.co/apps/nextcloud.png",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "98.24%",
+    "uptime": "98.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.15%",
-    "uptimeYear": "98.29%",
+    "uptimeYear": "98.30%",
     "time": 441,
-    "timeDay": 439,
-    "timeWeek": 338,
-    "timeMonth": 366,
+    "timeDay": 393,
+    "timeWeek": 345,
+    "timeMonth": 365,
     "timeYear": 354,
     "dailyMinutesDown": {
       "2025-05-22": 218,
