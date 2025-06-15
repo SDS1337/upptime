@@ -72,19 +72,19 @@
     "url": "https://hermes.flixari.co",
     "icon": "https://assets.flixari.co/mailcow.png",
     "slug": "hermes",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 613,
-    "timeDay": 528,
-    "timeWeek": 558,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "92.45%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.93%",
+    "time": 612,
+    "timeDay": 550,
+    "timeWeek": 560,
     "timeMonth": 583,
-    "timeYear": 613,
+    "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-06-15": 0
+      "2025-06-15": 109
     }
   },
   {
