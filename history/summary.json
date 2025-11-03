@@ -11,9 +11,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.10%",
     "time": 759,
-    "timeDay": 1205,
-    "timeWeek": 713,
-    "timeMonth": 1085,
+    "timeDay": 1236,
+    "timeWeek": 712,
+    "timeMonth": 1086,
     "timeYear": 807,
     "dailyMinutesDown": {
       "2025-11-02": 19,
@@ -56,8 +56,7 @@
       "2024-12-12": 159,
       "2024-11-20": 28,
       "2024-11-15": 373,
-      "2024-11-14": 31,
-      "2024-11-03": 104
+      "2024-11-14": 31
     }
   },
   {
@@ -72,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 631,
-    "timeDay": 814,
-    "timeWeek": 635,
-    "timeMonth": 611,
+    "timeDay": 540,
+    "timeWeek": 638,
+    "timeMonth": 612,
     "timeYear": 631,
     "dailyMinutesDown": {
       "2025-08-12": 100,
@@ -96,9 +95,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "98.76%",
     "time": 342,
-    "timeDay": 256,
-    "timeWeek": 282,
-    "timeMonth": 307,
+    "timeDay": 377,
+    "timeWeek": 289,
+    "timeMonth": 306,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2025-11-02": 19,
@@ -160,8 +159,7 @@
       "2024-11-15": 425,
       "2024-11-14": 31,
       "2024-11-12": 21,
-      "2024-11-11": 20,
-      "2024-11-03": 104
+      "2024-11-11": 20
     }
   },
   {
@@ -170,14 +168,14 @@
     "icon": "https://assets.flixari.co/apps/nextcloud.png",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "98.92%",
+    "uptime": "98.93%",
     "uptimeDay": "98.66%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "98.94%",
     "time": 400,
-    "timeDay": 334,
-    "timeWeek": 335,
+    "timeDay": 420,
+    "timeWeek": 331,
     "timeMonth": 334,
     "timeYear": 362,
     "dailyMinutesDown": {
