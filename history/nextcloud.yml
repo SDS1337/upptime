@@ -1,7 +1,7 @@
 url: https://cloud.flixari.co/login
-status: down
-code: 502
-responseTime: 244
-lastUpdated: 2026-02-15T10:00:01.920Z
+status: up
+code: 200
+responseTime: 322
+lastUpdated: 2026-02-15T10:41:21.044Z
 startTime: 2025-02-27T08:42:31.538Z
 generator: Upptime <https://github.com/upptime/upptime>
