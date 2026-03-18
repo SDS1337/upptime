@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.05%",
-    "time": 665,
-    "timeDay": 210,
-    "timeWeek": 225,
+    "time": 664,
+    "timeDay": 107,
+    "timeWeek": 230,
     "timeMonth": 140,
-    "timeYear": 716,
+    "timeYear": 715,
     "dailyMinutesDown": {
       "2026-01-01": 464,
       "2025-12-31": 1440,
@@ -77,11 +77,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 637,
-    "timeDay": 727,
-    "timeWeek": 681,
-    "timeMonth": 653,
-    "timeYear": 640,
+    "time": 638,
+    "timeDay": 871,
+    "timeWeek": 714,
+    "timeMonth": 656,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2025-12-22": 34,
       "2025-08-12": 100,
@@ -103,10 +103,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.33%",
     "time": 332,
-    "timeDay": 283,
-    "timeWeek": 307,
-    "timeMonth": 291,
-    "timeYear": 324,
+    "timeDay": 108,
+    "timeWeek": 285,
+    "timeMonth": 290,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2026-01-23": 126,
       "2026-01-22": 57,
@@ -146,8 +146,7 @@
       "2025-04-05": 170,
       "2025-03-26": 23,
       "2025-03-23": 141,
-      "2025-03-20": 81,
-      "2025-03-18": 43
+      "2025-03-20": 81
     }
   },
   {
@@ -157,14 +156,14 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "92.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.94%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.41%",
     "time": 386,
-    "timeDay": 341,
-    "timeWeek": 333,
-    "timeMonth": 346,
+    "timeDay": 308,
+    "timeWeek": 330,
+    "timeMonth": 348,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2026-03-16": 107,
@@ -210,8 +209,7 @@
       "2025-04-05": 170,
       "2025-03-26": 22,
       "2025-03-23": 141,
-      "2025-03-20": 80,
-      "2025-03-18": 43
+      "2025-03-20": 80
     }
   }
 ]
