@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.07%",
-    "time": 652,
-    "timeDay": 62,
-    "timeWeek": 94,
-    "timeMonth": 122,
-    "timeYear": 697,
+    "time": 651,
+    "timeDay": 60,
+    "timeWeek": 90,
+    "timeMonth": 119,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2026-01-01": 464,
       "2025-12-31": 1440,
@@ -60,8 +60,7 @@
       "2025-06-11": 56,
       "2025-05-22": 219,
       "2025-05-16": 44,
-      "2025-05-06": 20,
-      "2025-04-05": 171
+      "2025-05-06": 20
     }
   },
   {
@@ -76,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 637,
-    "timeDay": 497,
-    "timeWeek": 627,
-    "timeMonth": 642,
+    "timeDay": 839,
+    "timeWeek": 672,
+    "timeMonth": 647,
     "timeYear": 642,
     "dailyMinutesDown": {
       "2025-12-22": 34,
@@ -96,14 +95,14 @@
     "slug": "plex",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "90.10%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.00%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.34%",
-    "time": 333,
-    "timeDay": 369,
-    "timeWeek": 310,
-    "timeMonth": 306,
+    "time": 332,
+    "timeDay": 149,
+    "timeWeek": 285,
+    "timeMonth": 303,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2026-04-03": 201,
@@ -142,8 +141,7 @@
       "2025-05-13": 46,
       "2025-05-12": 45,
       "2025-05-06": 105,
-      "2025-04-24": 290,
-      "2025-04-05": 170
+      "2025-04-24": 290
     }
   },
   {
@@ -158,9 +156,9 @@
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.43%",
     "time": 385,
-    "timeDay": 466,
-    "timeWeek": 383,
-    "timeMonth": 352,
+    "timeDay": 225,
+    "timeWeek": 364,
+    "timeMonth": 349,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2026-03-30": 115,
@@ -204,8 +202,7 @@
       "2025-05-16": 43,
       "2025-05-13": 46,
       "2025-05-12": 45,
-      "2025-05-06": 19,
-      "2025-04-05": 170
+      "2025-05-06": 19
     }
   }
 ]
