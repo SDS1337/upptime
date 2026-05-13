@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.11%",
     "time": 625,
-    "timeDay": 422,
-    "timeWeek": 405,
-    "timeMonth": 172,
+    "timeDay": 410,
+    "timeWeek": 444,
+    "timeMonth": 183,
     "timeYear": 661,
     "dailyMinutesDown": {
       "2026-01-01": 464,
@@ -74,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 637,
-    "timeDay": 591,
-    "timeWeek": 659,
-    "timeMonth": 643,
+    "timeDay": 579,
+    "timeWeek": 622,
+    "timeMonth": 645,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2025-12-22": 34,
@@ -97,11 +97,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.05%",
-    "uptimeYear": "99.28%",
+    "uptimeYear": "99.29%",
     "time": 318,
-    "timeDay": 282,
-    "timeWeek": 253,
-    "timeMonth": 271,
+    "timeDay": 285,
+    "timeWeek": 282,
+    "timeMonth": 268,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2026-04-28": 287,
@@ -139,8 +139,7 @@
       "2025-06-11": 56,
       "2025-05-24": 548,
       "2025-05-22": 219,
-      "2025-05-16": 44,
-      "2025-05-13": 46
+      "2025-05-16": 44
     }
   },
   {
@@ -149,15 +148,15 @@
     "icon": "https://assets.flixari.co/apps/nextcloud.png",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.06%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.57%",
     "uptimeYear": "99.27%",
     "time": 384,
-    "timeDay": 548,
-    "timeWeek": 361,
-    "timeMonth": 371,
+    "timeDay": 329,
+    "timeWeek": 370,
+    "timeMonth": 369,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2026-04-28": 287,
@@ -203,8 +202,7 @@
       "2025-06-12": 49,
       "2025-06-11": 55,
       "2025-05-22": 218,
-      "2025-05-16": 43,
-      "2025-05-13": 46
+      "2025-05-16": 43
     }
   }
 ]
