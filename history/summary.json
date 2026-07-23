@@ -4,16 +4,16 @@
     "url": "https://flixari.co",
     "icon": "https://assets.flixari.co/organizr/logo.png",
     "slug": "flixari",
-    "status": "down",
+    "status": "up",
     "uptime": "98.50%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "95.37%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "94.18%",
-    "time": 691,
-    "timeDay": 1582,
-    "timeWeek": 2388,
-    "timeMonth": 1073,
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "94.88%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "94.17%",
+    "time": 690,
+    "timeDay": 1208,
+    "timeWeek": 2240,
+    "timeMonth": 1057,
     "timeYear": 733,
     "dailyMinutesDown": {
       "2025-07-27": 49,
@@ -54,7 +54,7 @@
       "2026-07-11": 68,
       "2026-07-20": 291,
       "2026-07-22": 166,
-      "2026-07-23": 10
+      "2026-07-23": 60
     }
   },
   {
@@ -84,16 +84,16 @@
     "url": "https://plex.flixari.co/web/index.html",
     "icon": "https://assets.flixari.co/apps/plex.png",
     "slug": "plex",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "95.52%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "99.49%",
-    "time": 295,
-    "timeDay": 88,
-    "timeWeek": 226,
-    "timeMonth": 231,
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "95.02%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "99.48%",
+    "time": 296,
+    "timeDay": 199,
+    "timeWeek": 235,
+    "timeMonth": 233,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2025-07-26": 24,
@@ -123,7 +123,7 @@
       "2026-07-11": 68,
       "2026-07-20": 286,
       "2026-07-22": 161,
-      "2026-07-23": 5
+      "2026-07-23": 55
     }
   },
   {
@@ -131,16 +131,16 @@
     "url": "https://cloud.flixari.co/login",
     "icon": "https://assets.flixari.co/apps/nextcloud.png",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "99.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "95.66%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "99.23%",
+    "status": "up",
+    "uptime": "98.99%",
+    "uptimeDay": "96.51%",
+    "uptimeWeek": "95.17%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "99.22%",
     "time": 364,
-    "timeDay": 168,
-    "timeWeek": 346,
-    "timeMonth": 357,
+    "timeDay": 300,
+    "timeWeek": 355,
+    "timeMonth": 360,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2025-07-26": 24,
@@ -180,7 +180,7 @@
       "2026-07-11": 68,
       "2026-07-20": 281,
       "2026-07-22": 156,
-      "2026-07-23": 0
+      "2026-07-23": 50
     }
   }
 ]
