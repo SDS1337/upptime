@@ -127,16 +127,16 @@
     "url": "https://cloud.flixari.co/login",
     "icon": "https://assets.flixari.co/apps/nextcloud.png",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.95%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.24%",
-    "time": 364,
-    "timeDay": 193,
-    "timeWeek": 306,
-    "timeMonth": 354,
+    "time": 363,
+    "timeDay": 254,
+    "timeWeek": 307,
+    "timeMonth": 352,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2025-09-02": 49,
@@ -173,7 +173,8 @@
       "2026-07-11": 68,
       "2026-07-20": 281,
       "2026-07-22": 156,
-      "2026-07-23": 50
+      "2026-07-23": 50,
+      "2026-07-28": 0
     }
   }
 ]
