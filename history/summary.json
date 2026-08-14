@@ -12,7 +12,7 @@
     "uptimeYear": "94.11%",
     "time": 686,
     "timeDay": 327,
-    "timeWeek": 420,
+    "timeWeek": 416,
     "timeMonth": 1078,
     "timeYear": 735,
     "dailyMinutesDown": {
@@ -70,7 +70,7 @@
     "uptimeYear": "99.99%",
     "time": 638,
     "timeDay": 759,
-    "timeWeek": 592,
+    "timeWeek": 608,
     "timeMonth": 654,
     "timeYear": 639,
     "dailyMinutesDown": {
@@ -90,7 +90,7 @@
     "uptimeYear": "99.44%",
     "time": 289,
     "timeDay": 109,
-    "timeWeek": 242,
+    "timeWeek": 232,
     "timeMonth": 322,
     "timeYear": 287,
     "dailyMinutesDown": {
@@ -127,15 +127,15 @@
     "url": "https://cloud.flixari.co/login",
     "icon": "https://assets.flixari.co/apps/nextcloud.png",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.74%",
     "uptimeYear": "99.15%",
     "time": 362,
-    "timeDay": 204,
-    "timeWeek": 332,
+    "timeDay": 253,
+    "timeWeek": 313,
     "timeMonth": 320,
     "timeYear": 359,
     "dailyMinutesDown": {
@@ -175,7 +175,8 @@
       "2026-07-22": 156,
       "2026-07-23": 50,
       "2026-07-28": 148,
-      "2026-08-04": 353
+      "2026-08-04": 353,
+      "2026-08-14": 0
     }
   }
 ]
