@@ -4,17 +4,17 @@
     "url": "https://flixari.co",
     "icon": "https://assets.flixari.co/organizr/logo.png",
     "slug": "flixari",
-    "status": "down",
+    "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "97.98%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "97.92%",
     "uptimeYear": "94.11%",
-    "time": 685,
-    "timeDay": 282,
-    "timeWeek": 385,
-    "timeMonth": 1063,
-    "timeYear": 733,
+    "time": 686,
+    "timeDay": 330,
+    "timeWeek": 390,
+    "timeMonth": 1047,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2025-08-22": 16,
       "2025-09-01": 20,
@@ -55,7 +55,7 @@
       "2026-07-22": 166,
       "2026-07-23": 60,
       "2026-08-04": 363,
-      "2026-08-19": 5
+      "2026-08-19": 32
     }
   },
   {
@@ -83,17 +83,17 @@
     "url": "https://plex.flixari.co/web/index.html",
     "icon": "https://assets.flixari.co/apps/plex.png",
     "slug": "plex",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.04%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "99.43%",
     "time": 289,
-    "timeDay": 337,
-    "timeWeek": 205,
+    "timeDay": 321,
+    "timeWeek": 215,
     "timeMonth": 333,
-    "timeYear": 287,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2025-08-22": 15,
       "2025-09-02": 49,
@@ -121,7 +121,7 @@
       "2026-07-22": 161,
       "2026-07-23": 55,
       "2026-08-04": 358,
-      "2026-08-19": 0
+      "2026-08-19": 27
     }
   },
   {
